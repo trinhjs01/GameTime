@@ -1,0 +1,13 @@
+<!-- Menu dropdown -->
+<!-- This file is located in the menu resource directory -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jdnst.gametime.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:checkable="false"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
